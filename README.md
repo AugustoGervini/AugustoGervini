@@ -11,9 +11,7 @@ Olá, seja bem-vindo ao meu portifólio.
 
 🛠  APTIDÕES
 
-💻   Python Java (Básico)
-
-🌐   HTML5 CSS JavaScript Bootstrap Node.js React
+💻   HTML5 / CSS / JavaScript / Bootstrap / Node.js / React / Python (Básico) / Java (Básico)   
 
 🛢   MySQL MongoDB
 
