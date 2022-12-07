@@ -1,16 +1,15 @@
-### Hi there 👋
+Olá, seja bem-vindo ao meu portifólio.
 
-<!--
-**AugustoGervini/AugustoGervini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻  Sobre mim
+🤔   Objetivo: Explorar novas tecnologias e desenvolver soluções.
+🎓   Formado em Administração de Empresas e Desenvolvimento de Sistemas.
+💼   Em busca de um emprego na área de TI.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠  Aptidões
+💻   Python Java (Básico)
+🌐   HTML5 CSS JavaScript Bootstrap Node.js React
+🛢   MySQL MongoDB
+⚙️   Git GitHub Markdown
+🔧   Visual Studio Code
+🖥   Photoshop CSS
 -->
