@@ -15,7 +15,7 @@ Olá, seja bem-vindo ao meu portifólio.
 
 🛢   MySQL MongoDB
 
-⚙️   Git GitHub Markdown
+⚙️   GitHub
 
 🔧   Visual Studio Code
 
