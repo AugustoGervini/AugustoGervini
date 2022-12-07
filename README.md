@@ -12,10 +12,15 @@ Olá, seja bem-vindo ao meu portifólio.
 🛠  APTIDÕES
 
 💻   Python Java (Básico)
+
 🌐   HTML5 CSS JavaScript Bootstrap Node.js React
+
 🛢   MySQL MongoDB
+
 ⚙️   Git GitHub Markdown
+
 🔧   Visual Studio Code
+
 🖥   Photoshop CSS
 
 -->
